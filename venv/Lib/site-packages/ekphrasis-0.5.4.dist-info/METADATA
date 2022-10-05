@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: ekphrasis
+Version: 0.5.4
+Summary: Text processing tool, geared towards text from social networks, such as Twitter or Facebook. Ekphrasis performs tokenization, word normalization, word segmentation (for splitting hashtags) and spell correction.
+Home-page: https://github.com/cbaziotis/ekphrasis
+Author: Christos Baziotis
+Author-email: christos.baziotis@gmail.com
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: termcolor
+Requires-Dist: tqdm
+Requires-Dist: colorama
+Requires-Dist: ujson
+Requires-Dist: matplotlib
+Requires-Dist: nltk
+Requires-Dist: ftfy
+Requires-Dist: numpy
+
+UNKNOWN
+
+
